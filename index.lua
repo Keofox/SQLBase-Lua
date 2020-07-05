@@ -41,3 +41,4 @@ net.Receive(tag, function(l, ply)
     end
 end)
 end
+print("вутка гей")
